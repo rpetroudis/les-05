@@ -1,0 +1,140 @@
+#back {
+    background: black;
+    height: 1044px;
+    width: 1065px;
+}
+
+#box-topleft-1 {
+    position: absolute;
+    background: red;
+    height: 510px;
+    width: 250px;
+    top: 15px;
+    left: 15px;
+}
+
+#box-topleft-2 {
+    position: absolute;
+    background: blue;
+    height: 510px;
+    width: 250px;
+    top: 15px;
+    left: 275px;
+}
+
+#box-topright-1 {
+    position: absolute;
+    background: red;
+    height: 250px;
+    width: 250px;
+    top: 15px;
+    left: 535px;
+}
+
+#box-topright-2 {
+    position: absolute;
+    background: white;
+    height: 250px;
+    width: 250px;
+    top: 275px;
+    left: 535px;
+}
+
+#box-topright-3 {
+    position: absolute;
+    background: blue;
+    height: 375px;
+    width: 63px;
+    top: 15px;
+    left: 795px;
+}
+
+#box-topright-4 {
+    position: absolute;
+    background: rgb(27, 27, 27);
+    height: 375px;
+    width: 125px;
+    top: 15px;
+    left: 868px;
+}
+
+#box-topright-5 {
+    position: absolute;
+    background: blue;
+    height: 375px;
+    width: 63px;
+    top: 15px;
+    left: 1003px;
+}
+
+#box-topright-6 {
+    position: absolute;
+    background: yellow;
+    height: 125px;
+    width: 271px;
+    top: 400px;
+    left: 795px;
+}
+
+#box-bottomleft-1 {
+    position: absolute;
+    background: yellow;
+    height: 510px;
+    width: 510px;
+    top: 535px;
+    left: 15px;
+}
+
+#box-bottomright-1 {
+    position: absolute;
+    background: yellow;
+    height: 250px;
+    width: 250px;
+    top: 535px;
+    left: 535px;
+}
+
+#box-bottomright-2 {
+    position: absolute;
+    background: red;
+    height: 125px;
+    width: 250px;
+    top: 795px;
+    left: 535px;
+}
+
+#box-bottomright-3 {
+    position: absolute;
+    background: white;
+    height: 250px;
+    width: 270px;
+    top: 535px;
+    left: 795px;
+}
+
+#box-bottomright-4 {
+    position: absolute;
+    background: white;
+    height: 125px;
+    width: 130px;
+    top: 795px;
+    left: 795px;
+}
+
+#box-bottomright-5 {
+    position: absolute;
+    background: blue;
+    height: 125px;
+    width: 130px;
+    top: 795px;
+    left: 935px;
+}
+
+#box-bottomright-6 {
+    position: absolute;
+    background: red;
+    height: 115px;
+    width: 530px;
+    top: 930px;
+    left: 535px;
+}
